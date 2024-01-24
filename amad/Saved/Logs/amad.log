@@ -1133,3 +1133,80 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-11.54.27:714][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2024.01.24-11.54.29:377][ 41]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 4.34s
 [2024.01.24-11.55.56:243][ 35]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 545 files in 925 folders with total size 3 MiB.
+[2024.01.24-12.11.38:067][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-12.11.38:179][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-12.11.41:525][327]Cmd: DUPLICATE
+[2024.01.24-12.11.41:525][327]Cmd: ACTOR DUPLICATE
+[2024.01.24-12.12.07:155][338]Cmd: DELETE
+[2024.01.24-12.12.07:155][338]Cmd: ACTOR DELETE
+[2024.01.24-12.12.07:173][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.07:188][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-12.12.07:189][338]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.01.24-12.12.07:998][402]Cmd: DELETE
+[2024.01.24-12.12.07:998][402]Cmd: ACTOR DELETE
+[2024.01.24-12.12.08:000][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.08:008][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-12.12.08:008][402]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.01.24-12.12.08:535][439]Cmd: DELETE
+[2024.01.24-12.12.08:535][439]Cmd: ACTOR DELETE
+[2024.01.24-12.12.08:537][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.08:545][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-12.12.08:546][439]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.01.24-12.12.09:284][459]Cmd: DELETE
+[2024.01.24-12.12.09:284][459]Cmd: ACTOR DELETE
+[2024.01.24-12.12.09:286][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.09:293][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.24-12.12.09:294][459]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.01.24-12.12.10:758][560]Cmd: DELETE
+[2024.01.24-12.12.10:758][560]Cmd: ACTOR DELETE
+[2024.01.24-12.12.10:760][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.10:768][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.24-12.12.10:770][560]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.01.24-12.12.12:250][671]Cmd: DELETE
+[2024.01.24-12.12.12:250][671]Cmd: ACTOR DELETE
+[2024.01.24-12.12.12:252][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.12:260][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-12.12.12:261][671]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.01.24-12.12.13:255][756]Cmd: DELETE
+[2024.01.24-12.12.13:255][756]Cmd: ACTOR DELETE
+[2024.01.24-12.12.13:257][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.13:265][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.24-12.12.13:267][756]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.01.24-12.12.14:246][827]Cmd: DELETE
+[2024.01.24-12.12.14:246][827]Cmd: ACTOR DELETE
+[2024.01.24-12.12.14:249][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.14:257][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.24-12.12.14:258][827]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.01.24-12.12.15:203][891]Cmd: DELETE
+[2024.01.24-12.12.15:203][891]Cmd: ACTOR DELETE
+[2024.01.24-12.12.15:206][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.15:215][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-12.12.15:216][891]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.01.24-12.12.16:177][978]Cmd: DELETE
+[2024.01.24-12.12.16:177][978]Cmd: ACTOR DELETE
+[2024.01.24-12.12.16:179][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.16:188][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.24-12.12.16:190][978]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.01.24-12.12.37:510][834]Cmd: DELETE
+[2024.01.24-12.12.37:510][834]Cmd: ACTOR DELETE
+[2024.01.24-12.12.37:512][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.37:520][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.24-12.12.37:522][834]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.01.24-12.12.38:761][896]Cmd: DELETE
+[2024.01.24-12.12.38:761][896]Cmd: ACTOR DELETE
+[2024.01.24-12.12.38:763][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.38:769][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.24-12.12.38:770][896]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.01.24-12.12.58:801][589]Cmd: DELETE
+[2024.01.24-12.12.58:801][589]Cmd: ACTOR DELETE
+[2024.01.24-12.12.58:804][589]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.58:805][589]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-12.12.58:814][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.24-12.12.58:815][589]LogEditorActor: Deleted 2 Actors (0.013 secs)
+[2024.01.24-12.13.13:522][883]Cmd: TRANSACTION UNDO
+[2024.01.24-12.13.13:522][883]LogEditorTransaction: Undo Move Elements
+[2024.01.24-12.13.18:998][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-12.13.19:093][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.24-12.13.19:098][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-12.13.19:104][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.24-12.13.19:125][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms
