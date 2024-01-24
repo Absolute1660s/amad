@@ -1210,3 +1210,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-12.13.19:098][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2024.01.24-12.13.19:104][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2024.01.24-12.13.19:125][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms
+[2024.01.24-12.15.48:476][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-12.15.48:544][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.24-12.15.48:550][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.24-12.15.48:556][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.24-12.15.48:576][850]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008449 seconds
+[2024.01.24-12.15.48:601][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317
+[2024.01.24-12.15.48:602][850]LogSavePackage: Moving '../../../../../../Users/User/Desktop/amad/amad/Saved/IU32BEDS8KCRBPZIQZ3317AA3180AE4E684D164E6BA3A6DDFA24BF.tmp' to '../../../../../../Users/User/Desktop/amad/amad/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset'
+[2024.01.24-12.15.49:022][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A
+[2024.01.24-12.15.49:023][850]LogSavePackage: Moving '../../../../../../Users/User/Desktop/amad/amad/Saved/ENMI5ZSH5EMTVMF7P7JJ6AAEB8A97E43B138E3CF24BCAFD7E3D5F8.tmp' to '../../../../../../Users/User/Desktop/amad/amad/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset'
+[2024.01.24-12.15.49:056][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 580 ms (total: 707 ms)
+[2024.01.24-12.15.49:062][850]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-12.15.49:063][850]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_42
+[2024.01.24-12.15.49:064][850]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_44
